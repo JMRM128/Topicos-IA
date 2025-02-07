@@ -1,0 +1,2 @@
+La evolución de la Inteligencia Artificial en las últimas décadas la ha llevado a formar parte del desarrollo de múltiples sectores, ya sean laborales o sociales. Su capacidad de procesar grandes cantidades de datos, la automatización de procesos y su aprendizaje de patrones le permite aplicarse en áreas de salud, economía, industria y más. 
+Es por eso que en el documento adjunto se llevó a cabo una investigación sobre las aplicaciones de la IA en ciertas áreas y en cómo se beneficia el humano con esta herramienta.
